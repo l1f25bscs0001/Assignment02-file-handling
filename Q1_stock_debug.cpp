@@ -1,14 +1,11 @@
 /*
- * Name       : Student Name
- * Reg No     : L1F24BSCS0081
+ * Name       : MUHAMMAD TABISH
+ * Reg No     : L1F25BSCS0001
  * Assignment : 02 - File Handling
  * Question   : Q1 - Stock Report (Debugging)
  */
 
 /*
- * ===== NOTES (how this program works) =====
- * Purpose : Reads stock.txt, counts items, adds up total stock value,
- *           and appends items with quantity < 10 to reorder.txt.
  *
  * INPUT FILE  : stock.txt   (keep in same folder as this .cpp)
  *   Code Qty Price

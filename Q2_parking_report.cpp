@@ -1,9 +1,3 @@
-/*
- * Name       : Student Name
- * Reg No     : L1F24BSCS0081
- * Assignment : 02 - File Handling
- * Question   : Q2 - Parking Report
- */
 
 /*
  * ===== NOTES (how this program works) =====

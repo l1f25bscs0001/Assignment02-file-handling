@@ -1,6 +1,6 @@
 /*
- * Name       : Student Name
- * Reg No     : L1F24BSCS0081
+ * Name       : Muhammad Tabish
+ * Reg No     : L1F25BSCS0001
  * Assignment : 02 - File Handling
  * Question   : Q4 - Heart Rate Cleaner
  */
